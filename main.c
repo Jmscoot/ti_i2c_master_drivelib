@@ -119,4 +119,4 @@ Uint16 i2ca_read(Uint16 slaveAddr, Uint16 *rxBuf, Uint16 numBytes)
 
     return 0;
 }
-    
+
